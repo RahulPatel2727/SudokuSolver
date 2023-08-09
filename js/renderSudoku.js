@@ -250,7 +250,7 @@ function remove(){
 }
 
 // time to visualize how the algorithm run and change the values
-let ms =20;
+let ms = 2;
 
 // sleep for ms time 
 function sleep(ms){
